@@ -23,21 +23,21 @@ Admins can add subjects, Teachers can add courses in a particular subject and St
 The system services and goals are established by consultation with system user. They are then defined in details and serve as a system specification. System requirement are those on which the system runs.<br><br>
 
 ⚙️    Hardware Requirements:<br>
-   *     Computer with either Intel Pentium processor or AMD processor.<br>
-   *     1GB+ DDR RAM<br>
-   *     1GB hard disk drive<br>
+*     Computer with either Intel Pentium processor or AMD processor.<br>
+*     1GB+ DDR RAM<br>
+*     1GB hard disk drive<br>
 
 
 💻    Software Requirements:<br>
-   *     Windows Operating system.<br>
-   *     JRE and JDK.<br>	
-   *     MySQL server (WAMP)<br>
+*     Windows Operating system.<br>
+*     JRE and JDK.<br>	
+*     MySQL server (WAMP)<br>
 
 # DESIGN<br>
 Database Design is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems.<br>
 It helps produce database systems:<br>
-   *   That meet the requirements of the users<br>
-   *   Have high performance.<br>
+*   That meet the requirements of the users<br>
+*   Have high performance.<br>
 
 **Architecture Description** <br>
 The design of a DBMS depends on its architecture. It can be centralized or decentralized or hierarchical. The architecture of a DBMS can be seen as either single tier or multi-tier.<br><br>
