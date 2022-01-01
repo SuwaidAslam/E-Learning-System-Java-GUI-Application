@@ -61,18 +61,18 @@ The goal of this application is to manage the Students, Teachers, Courses and va
 **List of modules with use cases:**<br>
 This Java project consists of 3 major modules
 ***Admin***<br>
-•	      Admin Login with Username & Password<br>
-•	      View Profile<br>
-•	      View Account Information<br>
-•	      Delete Account<br>
-•	      Manage Account (Change email, change name, change profile, change password)<br>
-•	      Admin Adds Subject<br>
-•	      Admin Deletes Subject<br>
-•	      View All Teachers Details and Delete Teacher<br>
-•	      View All Students Details and Delete Student<br>
-•	      View All Courses Details<br>
-•	      Add New Admin<br>
-•	      Logout<br>
+o	Admin Login with Username & Password<br>
+o	View Profile<br>
+o	View Account Information<br>
+o	Delete Account<br>
+o	Manage Account (Change email, change name, change profile, change password)<br>
+o	Admin Adds Subject<br>
+o	Admin Deletes Subject<br>
+o	View All Teachers Details and Delete Teacher<br>
+o	View All Students Details and Delete Student<br>
+o	View All Courses Details<br>
+o	Add New Admin<br>
+o	Logout<br>
 ***Teacher***<br>
 •	      Signup<br>
 •	      Teacher Login with Username & Password<br>
