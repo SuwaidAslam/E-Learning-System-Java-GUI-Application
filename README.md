@@ -23,9 +23,9 @@ Admins can add subjects, Teachers can add courses in a particular subject and St
 The system services and goals are established by consultation with system user. They are then defined in details and serve as a system specification. System requirement are those on which the system runs.<br><br>
 
 ⚙️    Hardware Requirements:<br>
-*     Computer with either Intel Pentium processor or AMD processor.<br>
-*     1GB+ DDR RAM<br>
-*     1GB hard disk drive<br>
+*   Computer with either Intel Pentium processor or AMD processor.<br>
+*   1GB+ DDR RAM<br>
+*   1GB hard disk drive<br>
 
 
 💻    Software Requirements:<br>
