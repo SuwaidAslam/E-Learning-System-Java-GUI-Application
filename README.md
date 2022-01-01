@@ -29,9 +29,9 @@ The system services and goals are established by consultation with system user. 
 
 
 💻    Software Requirements:<br>
-*     Windows Operating system.<br>
-*     JRE and JDK.<br>	
-*     MySQL server (WAMP)<br>
+*   Windows Operating system.<br>
+*   JRE and JDK.<br>	
+*   MySQL server (WAMP)<br>
 
 # DESIGN<br>
 Database Design is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems.<br>
