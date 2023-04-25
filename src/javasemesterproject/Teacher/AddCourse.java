@@ -151,8 +151,8 @@ public class AddCourse extends JFrame implements ActionListener{
                 subject_ID = rs.getInt("Subject_ID");
                 
                 String q = "INSERT INTO Courses (Name, Description, Content, teacherID, Subject_ID) "
-                        + "Values ('" + courseNameStr +"', '" + courseDescriptionStr +"', '" + courseContentStr +"', '"
-                        + TeacherLogin.currentTeacherID +"', '" + subject_ID + "')";
+                        + "Values ('" + courseNameStr +"', '" + courseDescriptionStr +"', '" + courseContentStr +"', "
+                        + TeacherLogin.currentTeacherID +", " + subject_ID + ")";
 
                 int x = c1.s.executeUpdate(q);
                 if(x == 0){
